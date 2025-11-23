@@ -1,9 +1,13 @@
-
 pandas
 numpy
-textblob
 matplotlib
 seaborn
-spacy
-pytextrank
+statsmodels
+yfinance
+TA-Lib
+pynance
+quantstats
 nltk
+spacy
+textblob
+pytextrank
