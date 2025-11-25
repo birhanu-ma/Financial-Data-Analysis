@@ -12,5 +12,6 @@ spacy
 textblob
 pytextrank
 
+
 # Requirement to install the local project package (defined by setup.py)
 -e .
